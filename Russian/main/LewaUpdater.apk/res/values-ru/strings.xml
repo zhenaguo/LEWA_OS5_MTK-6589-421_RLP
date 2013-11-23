@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Обновление</string>
+    <string name="discover_new_version">Обнаруженные обновления:</string>
+    <string name="new_version">Новая версия:</string>
+    <string name="cur_version">Текущая версия:</string>
+    <string name="check_update">Проверить обновление</string>
+    <string name="install_from_sd">Установить с SD-карты</string>
+    <string name="error_empty">Нет пакетов обновления в этой папке</string>
+    <string name="select_file">Выберите файл</string>
+    <string name="download_failure">Ошибка загрузки</string>
+    <string name="file_list_title">Установить с SD-карты</string>
+    <string name="conn_error">Ошибка соединения с сервером</string>
+    <string name="net_error">Ошибка сети</string>
+    <string name="error_no_msg">Нет сообщений</string>
+    <string name="new_version_error">У вас последняя версия</string>
+    <string name="new_version_error_twice">У вас последняя версия, новая не найдена</string>
+    <string name="new_version_error_third">У вас последняя версия, новая не найдена</string>
+    <string name="new_version_error_fourth" />
+    <string name="new_version_error_fifth" />
+    <string name="curr_version_error">Ваша текущая версия устарела, пожалуста, обновите ее с SD-карты</string>
+    <string name="download_file_exist">Пакет обновления поврежден</string>
+    <string name="net_data_error">Ошибка сервера</string>
+    <string name="currversion_old_error">Ваша текущая версия очень старая</string>
+    <string name="upgrade_now">Обновить</string>
+    <string name="upgrade_later">Обновить позже</string>
+    <string name="download_now">Загрузить</string>
+    <string name="downloading">Архив загружен</string>
+    <string name="sdcard_not_exists">SD-карта отсутствует</string>
+    <string name="dlg_update_package_md5_error_title">Ошибка проверки пакета обновления</string>
+    <string name="dlg_update_package_md5_error_msg">Ваш пакет обновления отличается от того, что на сервере</string>
+    <string name="btn_retry_download">Попробовать снова</string>
+    <string name="btn_cancel_download">Не загружать</string>
+    <string name="wifi_not_active">Wi-Fi не активен, попробуйте снова, когда будет подключен Wi-Fi</string>
+    <string name="notification_update_succ_title">Поздравляем, система обновлена!</string>
+    <string name="notification_update_succ_content">Обновление завершено, Ваша версия:</string>
+    <string name="notification_update_error_title">Простите, ошибка обновления</string>
+    <string name="notification_update_error_content">Ошибка обновления, Ваша версия:</string>
+    <string name="dlg_update_ota_wifi_off_title">Загрузить пакет обновления</string>
+    <string name="dlg_update_ota_wifi_off_msg">Вы находитесь не в режиме Wi-Fi, пакет обновления большей емкости, хотите ли вы продолжить?</string>
+    <string name="dlg_update_package_wifi_off_title">Загрузить, используя сеть оператора</string>
+    <string name="dlg_update_package_wifi_off_msg">Вы уверены, что не хотите использовать Wi-Fi для загрузки?</string>
+    <string name="dlg_reboot_update_complete_title">Начать обновление</string>
+    <string name="dlg_reboot_update_complete_msg">После обновление необходимо перезагрузить телефон, продолжить?</string>
+    <string name="dlg_sdcard_not_remount_title">SD-карта недоступна</string>
+    <string name="dlg_sdcard_not_remount_msg">Проверьте, что Ваша SD-карта подключена и телефон не находится в режиме передачи данных.</string>
+    <string name="dlg_sdcard_not_memory_title">Память</string>
+    <string name="dlg_sdcard_not_memory_msg">Недостаточно свободного места на SD-карте</string>
+    <string name="dlg_delete_all_file_title">Удалить файл прошивки</string>
+    <string name="dlg_delete_all_file_msg">Вы уверены, что хотите удалить этот файл?</string>
+    <string name="btn_confirm">ОК</string>
+    <string name="btn_cancel">Отмена</string>
+    <string name="btn_pause">Пауза</string>
+    <string name="btn_continue">Продолжить</string>
+    <string name="notification_new_version">Теперь у Вас новая версия!</string>
+    <string name="model_not_match">Выбраный пакет обновления пакет не соответствует Вашей модели телефона, выберите другой</string>
+    <string name="version_not_match">Выбраный пакет обновлени старее чем тот что стоит на Вашей системы, выберите другой</string>
+    <string name="download_all_new_version">Загрузить новую версию</string>
+    <string name="msg_cannot_ota_update">Текущая версия очень стара, невозможно обновить через OTA, Нажмите [Загрузить] для обновления, Пакет новой версий очень большой, Попробуйте загрузить, когда Wi-Fi будет активен</string>
+    <string name="net_data_error_pause_download">Ошибка сети, загрузка приостановлена!</string>
+    <string name="notification_net_data_error_pause_download">Ошибка сети, загрузка приостановлена!</string>
+    <string name="notification_user_click_pause_download">Загрузка пакета обновленияя приостановлена</string>
+    <string name="notification_net_data_complete_download">Загрузка пакета обновления завершена</string>
+    <string name="notification_net_data_complete_download_content">Пожалуйста, перезапустите загрузку пакета обновление</string>
+    <string name="dlg_cancel_download_title">Отменить загрузку</string>
+    <string name="dlg_cancel_download_msg">Вы уверены, что хотите отменить загрузку? После этого вы не сможете ее продолжить</string>
+    <string name="dlg_cotinue_download_title">Загрузить пакет обновления</string>
+    <string name="dlg_cotinue_download_msg">Вы уверены, что не хотите использовать Wi-Fi для загрузки?</string>
+    <string name="push_msg_notification_title">У вас есть новое обновление системы</string>
+    <string name="push_msg_notification_msg">Обновленная вресия:</string>
+    <string name="pregress_get_new_version_msg">Получение информации о новой версии, подождите...</string>
+    <string name="pregress_reboot_phone_title">Для того что-бы обновления вступили в силу, перезагрузитесь</string>
+    <string name="pregress_reboot_phone_msg">Подготовка к перезагрузке, подождите...</string>
+    <string name="stable_version">(Стабильная)</string>
+    <string name="dev_version">(Для разработчиков)</string>
+    <string name="menu_download_newest_full">Загрузить последнюю версию</string>
+    <string name="default_version_summary">Добро пожаловать в Lewa OS</string>
+    <string name="download_progress">0%</string>
+    <string name="tag_v">v</string>
+    <string name="error_can_not_get_update_version">Невозможно получить обновление</string>
+    <string name="error_cannot_download_full_package">Ошибка загрузки полного пакета обновления</string>
+    <string name="error_webview_no_msg">Нет сообщений</string>
+    <string name="error_http_timeout">Нет подключения к серверу, попробуйте еще раз!</string>
+    <string name="tag_new_version">[новая версия]</string>
+    <string name="realize_more">Подробнее</string>
+    <string name="progress_check_update_msg">Проверка наличия обновления, пожалуйста, подождите...</string>
+    <string name="progress_check_update_title">Проверка наличия обновления</string>
+    <string name="refresh">Обновить</string>
+    <string name="download_ota">Загрузить</string>
+    <string name="download_full_package">Загрузить инсталляционный пакет</string>
+    <string name="share">Поделиться</string>
+    <string name="reboot_update">Перезапустить обновление</string>
+    <string name="find_new_version">Новая версия</string>
+    <string name="current_version">Текущея версия</string>
+    <string name="download_full_package_error">У Вас установлена последняя версия этого! без необходимости загружать полный пакет!</string>
+    <string name="buffering">Буферизация</string>
+    <string name="dlg_cancel_update_title">Отменить обновление</string>
+    <string name="dlg_cancel_update_msg">Вы хотите временно обновить предыдущую версию? Не волнуйтесь, после загрузки файл будет сохранен на SD-карте</string>
+    <string name="dlg_cancel_update_msg_not_finish">У Вас еще не загрузилась предыдущая версия, Вы хотите отменить загрузку, чтобы загрузить новую версию?</string>
+    <string name="reboot_to_recovery">Перезагрузить в режим recovery</string>
+    <string name="reboot_to_recovery_msg">Для входа в режим recovery, необходимо перезагрузить телефон, продолжить?</string>
+    <string name="share_version_info">Поделиться информации об обновленной версии</string>
+    <string name="share_to_sina_weibo">Поделиться на Sina weibo</string>
+    <string name="download_sina_weibo">Sina weibo (загрузить)</string>
+    <string name="share_to_tencent_weibo">Поделиться на Tencent weibo</string>
+    <string name="download_tencent_weibo">Tencent weibo (загрузить)</string>
+    <string name="share_to_renren">Поделиться на Renren</string>
+    <string name="download_renren">Renren (загрузить)</string>
+    <string name="share_to_qzone">Поделиться на QZone</string>
+    <string name="download_qzone">QZone (загрузить)</string>
+    <string name="no_share_app_find">К сожалению, вы не установили приложение для совместного использования, вы можете скачать, а затем поделиться</string>
+    <string name="share_with_friends">Быстро поделиться им с друзьями!</string>
+    <string name="share_to_weibo_content_start">\#Lewa обновление#Успешно обновлено до</string>
+    <string name="share_to_weibo_content_end">Lewa ROM! Подробная информация на http://www.lewaos.com/features.html</string>
+    <string name="share_to_weibo_content0" formatted="false" />
+    <string name="share_to_weibo_content1" formatted="false" />
+    <string name="share_to_weibo_content2" formatted="false" />
+    <string name="share_to_weibo_content3" formatted="false" />
+    <string name="share_to_weibo_content4" formatted="false" />
+    <string name="share_to_weibo_content5" formatted="false" />
+    <string name="share_to_weibo_content6" formatted="false" />
+    <string name="share_to_weibo_content7" formatted="false" />
+    <string name="share_to_weibo_content8" formatted="false" />
+    <string name="share_to_weibo_content9" formatted="false" />
+    <string name="share_to_weibo_content10" formatted="false" />
+    <string name="share_to_weibo_content11" formatted="false" />
+    <string name="share_to_weibo_content12" formatted="false" />
+    <string name="share_to_weibo_content13" formatted="false" />
+    <string name="share_to_weibo_content14" formatted="false" />
+    <string name="share_to_weibo_content15" formatted="false" />
+    <string name="share_to_weibo_content16" formatted="false" />
+    <string name="share_to_weibo_content17" formatted="false" />
+    <string name="share_to_weibo_content18" formatted="false" />
+    <string name="share_to_weibo_content19" formatted="false" />
+    <string name="dlg_low_power_notify_title">У Вас низкий заряд батареи</string>
+    <string name="dlg_low_power_notify_msg">Текущий заряд батареи менее 30 процентов, рекомендуем перед загрузкой пакета обновления, зарядить телефон.</string>
+    <string name="btn_ignore">Игнорировать</string>
+</resources>

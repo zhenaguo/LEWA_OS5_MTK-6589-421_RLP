@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_quick_texts">
+        <item>Where are you?</item>
+        <item>What are you doing?</item>
+        <item>Call back!Please!</item>
+        <item>Sorry, I have a meeting now.</item>
+        <item>Call you soon.</item>
+        <item>"Don't worry!I'm fine."</item>
+        <item>On my way home.</item>
+        <item>Arrive soon.</item>
+        <item>Be there or be square!</item>
+    </string-array>
+</resources>

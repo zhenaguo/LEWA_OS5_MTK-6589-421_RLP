@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="switchbuttons">
+        <item>toggleSound</item>
+        <item>togglePowermanager</item>
+        <item>buttonQrCode</item>
+        <item>toggleBluetooth</item>
+        <item>toggleWifi</item>
+        <item>toggleData</item>
+        <item>toggleGps</item>
+        <item>toggleTorch</item>
+        <item>toggleAutoRotate</item>
+        <item>toggleGeminiData</item>
+        <item>lockDevice</item>
+        <item>toggleAireplane</item>
+        <item>toggleScreenCapture</item>
+        <item>shutdownDevice</item>
+        <item>rebootDevice</item>
+        <item>toggleVibrator</item>
+        <item>nightmode</item>
+    </string-array>
+</resources>

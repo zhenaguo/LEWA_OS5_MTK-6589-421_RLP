@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<favorites
+  xmlns:launcher="http://schemas.android.com/apk/res/com.lewa.launcher">
+    <favorite launcher:container="-101" launcher:screen="-1" launcher:x="0" launcher:y="0" launcher:appType="PHONE" />
+    <favorite launcher:container="-101" launcher:screen="-1" launcher:x="1" launcher:y="0" launcher:appType="CONTACTS" />
+    <favorite launcher:container="-101" launcher:screen="-1" launcher:x="2" launcher:y="0" launcher:appType="BROWSER" />
+    <favorite launcher:container="-101" launcher:screen="-1" launcher:x="3" launcher:y="0" launcher:appType="MMS" />
+    <appwidget launcher:className="com.lewa.weather.WeatherWidgetV5_time" launcher:packageName="com.lewa.weather" launcher:screen="0" launcher:x="0" launcher:y="0" launcher:spanX="3" launcher:spanY="2" />
+    <appwidget launcher:className="com.lewa.weather.WeatherWidgetV5_weather" launcher:packageName="com.lewa.weather" launcher:screen="0" launcher:x="3" launcher:y="0" launcher:spanX="1" launcher:spanY="2" />
+    <favorite launcher:screen="0" launcher:x="0" launcher:y="3" launcher:appType="CAMERA" />
+    <favorite launcher:screen="0" launcher:x="1" launcher:y="3" launcher:appType="GALLERY" />
+    <favorite launcher:className="com.lewa.player.ui.outer.MusicMainEntryActivity" launcher:packageName="com.lewa.player" launcher:screen="0" launcher:x="2" launcher:y="3" />
+    <favorite launcher:className="com.lewa.themechooser.ThemeChooser" launcher:packageName="com.lewa.themechooser" launcher:screen="0" launcher:x="3" launcher:y="3" />
+    <appwidget launcher:className="com.lewa.search.widget.SearchWidgetProvider" launcher:packageName="com.lewa.search" launcher:screen="1" launcher:x="0" launcher:y="0" launcher:spanX="4" launcher:spanY="1" />
+    <folder launcher:screen="1" launcher:x="0" launcher:y="1" launcher:title="@string/system_secrity_folder">
+        <favorite launcher:className="com.bel.android.dspmanager.activity.DSPManager" launcher:packageName="com.bel.android.dspmanager" />
+        <favorite launcher:className="com.android.spare_parts.SpareParts" launcher:packageName="com.android.spare_parts" />
+        <favorite launcher:className="com.speedsoftware.rootexplorer.RootExplorer" launcher:packageName="com.speedsoftware.rootexplorer" />
+        <favorite launcher:className="jackpal.androidterm2.Term" launcher:packageName="jackpal.androidterm2" />
+        <favorite launcher:className="com.lewa.filemanager.FileManagerMainActivity" launcher:packageName="com.lewa.filemanager" />
+        <favorite launcher:className="com.android.settings.LewaSettings" launcher:packageName="com.android.settings" />
+        <favorite launcher:className="com.lewa.security.SecurityActivity" launcher:packageName="com.lewa.security" />
+        <favorite launcher:className="com.lewa.spm.activity.SPMActivity" launcher:packageName="com.lewa.spm" />
+        <favorite launcher:className="com.mediatek.StkSelection.StkSelection" launcher:packageName="com.mediatek.StkSelection" />
+        <favorite launcher:className="com.android.stk.StkCDMALauncherActivity" launcher:packageName="com.android.stk" />
+    </folder>
+    <folder launcher:screen="1" launcher:x="1" launcher:y="1" launcher:title="@string/system_tool_folder">
+        <favorite launcher:className="com.lewa.player.ui.outer.MusicMainEntryActivity" launcher:packageName="com.lewa.player" />
+        <favorite launcher:className="com.android.deskclock.DeskClockMainActivity" launcher:packageName="com.android.deskclock" />
+        <favorite launcher:className="com.mediatek.FMRadio.LewaFMRadioActivity" launcher:packageName="com.mediatek.FMRadio" />
+        <favorite launcher:className="com.lewa.weather.LewaWeather" launcher:packageName="com.lewa.weather" />
+        <favorite launcher:className="com.android.email.activity.Welcome" launcher:packageName="com.android.email" />
+        <favorite launcher:className="com.android.soundrecorder.LewaSoundRecordMainActivity" launcher:packageName="com.android.soundrecorder" />
+        <favorite launcher:className="com.android.calculator2.Calculator" launcher:packageName="com.android.calculator2" />
+        <favorite launcher:className="com.lewa.compass.MainActivity" launcher:packageName="com.lewa.compass" />
+        <favorite launcher:className="com.lewa.flashlight.LewaMainActivity" launcher:packageName="com.lewa.flashlight" />
+    </folder>
+    <noncustom launcher:container="-101" launcher:screen="1" launcher:x="0" launcher:y="0" />
+</favorites>

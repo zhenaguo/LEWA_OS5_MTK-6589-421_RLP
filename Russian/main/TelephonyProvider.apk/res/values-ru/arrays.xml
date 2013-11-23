@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_quick_texts">
+        <item>Ты где?</item>
+        <item>Что ты делаешь?</item>
+        <item>Пожалуйста, срочно перезвони мне!</item>
+        <item>Извините, я нахожусь на совещании.</item>
+        <item>Я перезвоню Вам позже.</item>
+        <item>Я в порядке, не волнуйтесь.</item>
+        <item>Направляюсь домой.</item>
+        <item>Я скоро буду.</item>
+        <item>Увидимся на вечеринке!</item>
+    </string-array>
+</resources>

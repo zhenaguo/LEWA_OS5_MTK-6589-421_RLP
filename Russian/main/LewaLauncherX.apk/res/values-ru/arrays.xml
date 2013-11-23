@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="desktop_transition_effect_entries">
+        <item>Стандарт</item>
+        <item>Отскок</item>
+        <item>Приближение</item>
+        <item>Отдаление</item>
+        <item>Вращение вверх</item>
+        <item>Вращение вниз</item>
+        <item>Вращение</item>
+        <item>Переворот</item>
+        <item>Куб внутри</item>
+        <item>Куб снаружи</item>
+        <item>Стек</item>
+        <item>Аккордеон</item>
+        <item>Цилиндр внутрь</item>
+        <item>Цилиндр наружу</item>
+        <item>Карусель</item>
+    </string-array>
+</resources>

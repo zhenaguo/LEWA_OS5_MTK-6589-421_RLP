@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Монитор трафика</string>
+    <string name="app_summary">Мониторинг 3G трафика, приложение от LeWaTek Limited.</string>
+    <string name="app_title">Запрос по использованию 3G трафика</string>
+    <string name="request_failed">Сбой запроса по использованию 3G трафика, не удалось получить данные от оператора</string>
+    <string name="request_sms">Настройки SMS запроса по использованию 3G трафика</string>
+    <string name="send_sms">Послать SMS запрос по использованию 3G трафика</string>
+    <string name="analyze_sms">Анализ по использованию 3G трафика</string>
+    <string name="alert_slot_error">Неправильный слот</string>
+    <string name="alert_network_error">Ошибка сети</string>
+    <string name="phone_closed">Отсутствует сеть. Включите и попробуйте снова</string>
+    <string name="label_province">Регион</string>
+    <string name="label_city">Город</string>
+    <string name="label_carrier">Оператор</string>
+    <string name="label_brand">Бренд</string>
+    <string name="label_info">Пожалуйста, подтвердите информацию Вашего оператора</string>
+    <string name="label_data_left">Осталось</string>
+    <string name="label_data_used">Использовано</string>
+    <string name="label_partner">Техническая поддержка: Tencent Mobile Manager</string>
+</resources>

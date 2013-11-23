@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="shutdown_reboot_options">
+        <item>Перезагрузка</item>
+        <item>Рекавери</item>
+    </string-array>
+    <string-array name="mobile_operator_display_names">
+        <item>Megafon</item>
+        <item>Beeline-Россия</item>
+        <item>Beeline-Украина</item>
+        <item>Beeline-Казахстан</item>
+        <item>MTS-Россия</item>
+        <item>MTS-Украина</item>
+        <item>MTS-Беларусь</item>
+        <item>Ростелеком </item>
+        <item>Ростелеком </item>
+        <item>Kyivstar</item>
+        <item>life:)</item>
+        <item>Велком</item>
+        <item>Tele2</item>
+    </string-array>
+    <string-array name="mobile_operator_numeric_equivalencies">
+        <item>25002</item>
+        <item>25099</item>
+        <item>25502</item>
+        <item>40101</item>
+        <item>25001</item>
+        <item>25501</item>
+        <item>25702</item>
+        <item>25017</item>
+        <item>25039</item>
+        <item>25503</item>
+        <item>25506</item>
+        <item>25701</item>
+        <item>25020</item>
+    </string-array>
+    <string-array name="mobile_operator_numeric_values">
+        <item>25002</item>
+        <item>25099</item>
+        <item>25502</item>
+        <item>40101</item>
+        <item>25001</item>
+        <item>25501</item>
+        <item>25702</item>
+        <item>25017</item>
+        <item>25039</item>
+        <item>25503</item>
+        <item>25506</item>
+        <item>25701</item>
+        <item>25020</item>
+    </string-array>
+    <string-array name="chineseMonthNames">
+        <item>Январь</item>
+        <item>Февраль</item>
+        <item>Март</item>
+        <item>Апрель</item>
+        <item>Май</item>
+        <item>Июнь</item>
+        <item>Июль</item>
+        <item>Август</item>
+        <item>Сентябрь</item>
+        <item>Октябрь</item>
+        <item>Ноябрь</item>
+        <item>Декабрь</item>
+    </string-array>
+    <string-array name="chineseDateNames">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+    </string-array>
+</resources>

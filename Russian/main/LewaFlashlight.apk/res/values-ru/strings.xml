@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Фонарик</string>
+    <string name="prompt">Для быстрого открытия на экране блокировки, нажмите и удерживайте нажатой иконку фонарика</string>
+    <string name="errorCameraOpenTitle">Ошибка фонарика</string>
+    <string name="errorCameraOpenMessage">Не удается запустить фонарик, какое-то приложение использует интерфейс камеры</string>
+</resources>
